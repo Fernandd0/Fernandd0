@@ -25,7 +25,7 @@ links de gif para perfil:
 
 - 📫 How to reach me **mr.fernandd.to@gmail.com**
 
-- 🌱 I’m currently learning **Web3 and PHP.**
+- 🌱 I’m currently learning **DATABASE**
 
 ---
 
