@@ -2,39 +2,44 @@
 <div id = "header" align = "center" >
      <img src= "https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="400" />
      <h1 align="center">I'm Fernandd0 </h1>
-     <h3 align="center"> I'm a developer junior from Perú. 
-     </h3>
+     <h3 align="center">I'm a junior developer from Peru.<br>My goal? helps people live life and not let life live them.</h3> 
+     <p aligin="center">And remember If you can imagine it, YOU CAN DO IT.</p>
+     
 </div>
-
-<!--
-links de gif para perfil: 
-- https://media.giphy.com/media/DBW3BniaWrFo4/giphy.gif
-- https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif
-- https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif
-- https://media.giphy.com/media/4c0sdgYcz9mpO/giphy.gif
-- https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif
-- 
-- https://giphy.com/clips/ralph-hello-hi-there-KxOl63T54r3xuNYIvG
--->
 
 ---
 
-### 👨‍💻 About Me :
+### About Me :
 
 - 📝 I'm a student or maybe I was a student, but I'm always learning.
 
-- 📫 How to reach me **mr.fernandd.to@gmail.com**
+- 🌱 I’m currently learning **Web frameworks and PHP**.
 
-- 🌱 I’m currently learning **DATABASE**
+- 🏀 I love basketball and the peculiar way we can learn programming from it.
+
+- 📜 I write poems to free myself from the bugs. 
+
+- 📫 How to reach me **fernandd.to.dev@gmail.com**
 
 ---
 
 <div align="left">
     <h3>Languages and Tools:</h3>
     <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>&nbsp;
       </div>
 </div>
+
+---
+
+### My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandd0&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
