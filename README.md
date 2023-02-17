@@ -3,8 +3,7 @@
      <img src= "https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="400" />
      <h1 align="center">I'm Fernando </h1>
      <h3 align="center">I'm a junior developer from Peru.<br>My goal? helps people live life and not let life live them.</h3> 
-     <p aligin="center">And remember If you can imagine it, YOU CAN DO IT.</p>
-     <a href="https://fernandd0.github.io/portfolio/">Portfolio</a>
+     Visit my <a href="https://fernandd0.github.io/portfolio/">Portfolio</a>
      
 </div>
 
@@ -20,7 +19,8 @@
 
 - 📫 How to reach me **fernandd.to.dev@gmail.com**
 
-- 🏀 I love basketball and the peculiar way we can learn programming from it.
+- 🏀 I love basketball and I practice it when I finish my projects. 
+
 
 ---
 
@@ -44,7 +44,3 @@
 ### My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandd0&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fernandd0&theme=onedark)](https://git.io/streak-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernandd0&show_icons=true&theme=radical)
