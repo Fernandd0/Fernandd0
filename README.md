@@ -1,7 +1,7 @@
 <div>
      <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="400"/>
      <h3> I'm a frontend deveveloper from Peru. </h3>
-     <h4> I'm a student or maybe I was a student, but I'm always learning. <br> For more quotes: <a href="https://fernandd0.github.io/portfolio/" target="_blank">Fernando.com</a></h4>
+     <h4> I'm a student or maybe I was a student, but I'm always learning. <br> For more quotes: <a href="https://fernanddo.vercel.app/" target="_blank">Fernando.com</a></h4>
 </div>
 
 
