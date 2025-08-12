@@ -7,4 +7,4 @@
 
 ## My Top Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=ts,js,react,vue,astro,html,css,tailwind)](https://fernanddo.vercel.app/)
-[![My Skills](https://skillicons.dev/icons?i=nodejs,laravel,php,java,mysql,postgres,git)](https://fernanddo.vercel.app/)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,java,mysql,postgres,git)](https://fernanddo.vercel.app/)
